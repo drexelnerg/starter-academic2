@@ -66,6 +66,6 @@ user_groups:
 - Visitors
 ---
 
-Professor Porky McPorcupine graduated from the Philadelphia Zoo at the top of my class in 2009, did my PhD at Redwood National Forest in 2014, and a postdoctoral fellowship at the University of Hokkaido. In 2020 I was tenured as full professor at Drexel University.
+Professor Porky McPorcupine graduated from the Philadelphia Zoo at the top of my class in 2009, did a PhD at Redwood National Forest in 2014, and a postdoctoral fellowship at the University of Hokkaido. In 2020, Professor McPorcupine was tenured as full professor at Drexel University.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
