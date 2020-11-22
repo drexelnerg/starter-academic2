@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Porky McPorcupine
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Quills
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Drexel University
+  url: "http://www.drexel.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I graduated from the Philadelphia Zoo at the top of my class in 2009, did my PhD at Redwood National Forest in 2014, and a postdoctoral fellowship at the University of Hokkaido. In 2020 I was tenured as full professor at Drexel University.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Pointy things
+- Sharp things
+- Pumpkins
 
 education:
   courses:
